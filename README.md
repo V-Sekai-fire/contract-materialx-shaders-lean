@@ -14,4 +14,4 @@ lake build
 
 ## Licence
 
-Not stated. The repository has no LICENSE file and its sources carry no licence header.
+MIT. See [LICENSE](LICENSE).
